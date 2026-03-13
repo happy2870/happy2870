@@ -36,6 +36,16 @@
 npm install @happy2870/dsk
 ```
 
+### [nextjs-turborepo-starter](https://github.com/happy2870/nextjs-turborepo-starter) — Monorepo Starter
+
+> Production-ready Next.js monorepo boilerplate with Turborepo, shared packages, and best practices.
+
+- Turborepo-based monorepo with `apps/` and `packages/` structure
+- Shared UI component library (`@happy2870/dsk` extracted from here)
+- Shared utils, hooks, types, and constants across apps
+- Tailwind CSS + TypeScript strict mode
+- Cypress E2E testing setup
+
 <br/>
 
 ## GitHub Stats
