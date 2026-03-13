@@ -40,6 +40,15 @@
 npm install @happy2870/dsk
 ```
 
+### [ai-toolkit](https://github.com/happy2870/ai-toolkit) — AI Toolkit
+
+> React components for building AI-powered applications with streaming chat, prompt editing, and rich content rendering.
+
+- Lexical-based prompt editor with template variables (`{{tone}}`) and slash commands
+- Multi-provider AI chat (Gemini, Groq, OpenAI) with SSE streaming
+- Rich response rendering: Markdown, syntax highlighting, ECharts, Mermaid, KaTeX
+- React 19 + TypeScript + Vite + Tailwind CSS v4
+
 ### [nextjs-turborepo-starter](https://github.com/happy2870/nextjs-turborepo-starter) — Monorepo Starter
 
 > Production-ready Next.js monorepo boilerplate with Turborepo, shared packages, and best practices.
