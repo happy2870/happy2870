@@ -59,6 +59,15 @@ npm install @happy2870/dsk
 - Tailwind CSS + TypeScript strict mode
 - Cypress E2E testing setup
 
+### [workflow-editor](https://github.com/happy2870/workflow-editor) — Workflow Editor
+
+> Visual workflow editor built with ReactFlow for designing node-based automation pipelines.
+
+- Drag-and-drop node editor with 10+ node types (LLM, Code, HTTP Request, If/Else, Iteration, etc.)
+- Dagre-based auto-layout for clean graph arrangement
+- Undo/redo history and node configuration panel
+- Next.js 16 + React 19 + TypeScript + Zustand + Tailwind CSS v4
+
 <br/>
 
 ## GitHub Stats
